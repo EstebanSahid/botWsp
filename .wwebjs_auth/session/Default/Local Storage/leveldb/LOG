@@ -1,0 +1,69 @@
+2023/09/19-17:42:09.612 278295 Reusing MANIFEST /var/www/wsp/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2023/09/19-17:42:09.612 278295 Recovering log #73
+2023/09/19-17:42:09.613 278295 Reusing old log /var/www/wsp/.wwebjs_auth/session/Default/Local Storage/leveldb/000073.log 
+2023/09/21-07:44:04.092 287c8a Level-0 table #78: started
+2023/09/21-07:44:04.096 287c8a Level-0 table #78: 12916 bytes OK
+2023/09/21-07:44:04.100 287c8a Delete type=0 #73
+2023/09/23-14:56:49.360 29e857 Level-0 table #80: started
+2023/09/23-14:56:49.363 29e857 Level-0 table #80: 10014 bytes OK
+2023/09/23-14:56:49.366 29e857 Delete type=0 #77
+2023/09/25-21:49:25.393 2b52ef Level-0 table #82: started
+2023/09/25-21:49:25.396 2b52ef Level-0 table #82: 9889 bytes OK
+2023/09/25-21:49:25.399 2b52ef Delete type=0 #79
+2023/09/28-04:42:07.174 2cbb0c Level-0 table #84: started
+2023/09/28-04:42:07.176 2cbb0c Level-0 table #84: 9953 bytes OK
+2023/09/28-04:42:07.179 2cbb0c Delete type=0 #81
+2023/09/28-04:42:07.179 2cbb0c Compacting 4@0 + 1@1 files
+2023/09/28-04:42:07.183 2cbb0c Generated table #85@0: 115 keys, 5890 bytes
+2023/09/28-04:42:07.183 2cbb0c Compacted 4@0 + 1@1 files => 5890 bytes
+2023/09/28-04:42:07.185 2cbb0c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/28-04:42:07.185 2cbb0c Delete type=2 #82
+2023/09/28-04:42:07.185 2cbb0c Delete type=2 #78
+2023/09/28-04:42:07.185 2cbb0c Delete type=2 #75
+2023/09/28-04:42:07.185 2cbb0c Delete type=2 #84
+2023/09/28-04:42:07.185 2cbb0c Delete type=2 #80
+2023/09/30-11:34:38.900 2e240f Level-0 table #87: started
+2023/09/30-11:34:38.902 2e240f Level-0 table #87: 10053 bytes OK
+2023/09/30-11:34:38.905 2e240f Delete type=0 #83
+2023/10/02-18:47:25.602 2f8cfb Level-0 table #89: started
+2023/10/02-18:47:25.605 2f8cfb Level-0 table #89: 9885 bytes OK
+2023/10/02-18:47:25.609 2f8cfb Delete type=0 #86
+2023/10/05-01:20:14.535 30f83b Level-0 table #91: started
+2023/10/05-01:20:14.539 30f83b Level-0 table #91: 10081 bytes OK
+2023/10/05-01:20:14.548 30f83b Delete type=0 #88
+2023/10/07-08:22:59.700 32622c Level-0 table #93: started
+2023/10/07-08:22:59.706 32622c Level-0 table #93: 9997 bytes OK
+2023/10/07-08:22:59.711 32622c Delete type=0 #90
+2023/10/07-08:22:59.711 32622c Compacting 4@0 + 1@1 files
+2023/10/07-08:22:59.718 32622c Generated table #94@0: 115 keys, 5890 bytes
+2023/10/07-08:22:59.719 32622c Compacted 4@0 + 1@1 files => 5890 bytes
+2023/10/07-08:22:59.720 32622c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/07-08:22:59.721 32622c Delete type=2 #93
+2023/10/07-08:22:59.721 32622c Delete type=2 #91
+2023/10/07-08:22:59.721 32622c Delete type=2 #85
+2023/10/07-08:22:59.721 32622c Delete type=2 #87
+2023/10/07-08:22:59.721 32622c Delete type=2 #89
+2023/10/09-15:45:38.106 33d074 Level-0 table #96: started
+2023/10/09-15:45:38.111 33d074 Level-0 table #96: 9901 bytes OK
+2023/10/09-15:45:38.115 33d074 Delete type=0 #92
+2023/10/11-22:08:15.015 354534 Level-0 table #98: started
+2023/10/11-22:08:15.019 354534 Level-0 table #98: 10050 bytes OK
+2023/10/11-22:08:15.022 354534 Delete type=0 #95
+2023/10/14-04:30:50.840 36acbc Level-0 table #100: started
+2023/10/14-04:30:50.845 36acbc Level-0 table #100: 10367 bytes OK
+2023/10/14-04:30:50.848 36acbc Delete type=0 #97
+2023/10/16-11:33:44.639 38161c Level-0 table #102: started
+2023/10/16-11:33:44.642 38161c Level-0 table #102: 9898 bytes OK
+2023/10/16-11:33:44.646 38161c Delete type=0 #99
+2023/10/16-11:33:44.646 38161c Compacting 4@0 + 1@1 files
+2023/10/16-11:33:44.650 38161c Generated table #103@0: 115 keys, 5953 bytes
+2023/10/16-11:33:44.650 38161c Compacted 4@0 + 1@1 files => 5953 bytes
+2023/10/16-11:33:44.651 38161c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/16-11:33:44.651 38161c Delete type=2 #102
+2023/10/16-11:33:44.651 38161c Delete type=2 #96
+2023/10/16-11:33:44.651 38161c Delete type=2 #98
+2023/10/16-11:33:44.651 38161c Delete type=2 #94
+2023/10/16-11:33:44.651 38161c Delete type=2 #100
+2023/10/18-18:46:35.091 399239 Level-0 table #105: started
+2023/10/18-18:46:35.095 399239 Level-0 table #105: 10027 bytes OK
+2023/10/18-18:46:35.099 399239 Delete type=0 #101
